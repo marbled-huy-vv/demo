@@ -1,0 +1,4 @@
+1. tạo form submit trong view dangky
+2. kiểm tra nếu chưa nhập đủ các field thì show mess lỗi (validate)
+3. submit data của form qua controller dangky
+4. lưu thông tin đăng ký xuống db
